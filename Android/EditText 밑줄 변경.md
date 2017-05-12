@@ -1,8 +1,7 @@
 # EditText 밑줄 변경
 
-EditText의 Background속성을 바꿔준다
-
-        <?xml version="1.0" encoding="utf-8"?>
+1.  Drawble xml을 생성
+        <?xml version="1.0" encoding="utf-8"?>
         <layer-list xmlns:android="http://schemas.android.com/apk/res/android">
             <item>
                 <shape android:shape="rectangle">
@@ -22,3 +21,5 @@ EditText의 Background속성을 바꿔준다
                 </shape>
             </item>
         </layer-list>
+
+2. EditText의 Background속성을 생성한 Drawable로 바꿔준다
