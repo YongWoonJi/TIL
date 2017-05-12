@@ -2,7 +2,7 @@
 
 1.Drawble xml을 생성
 
-        <?xml version="1.0" encoding="utf-8"?>
+        <?xml version="1.0" encoding="utf-8"?>
         <layer-list xmlns:android="http://schemas.android.com/apk/res/android">
             <item>
                 <shape android:shape="rectangle">
